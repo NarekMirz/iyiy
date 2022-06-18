@@ -1,0 +1,15 @@
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\bin\Debug\net6.0\homew1.exe
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\bin\Debug\net6.0\homew1.deps.json
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\bin\Debug\net6.0\homew1.runtimeconfig.json
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\bin\Debug\net6.0\homew1.dll
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\bin\Debug\net6.0\homew1.pdb
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.csproj.AssemblyReference.cache
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.AssemblyInfoInputs.cache
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.AssemblyInfo.cs
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.csproj.CoreCompileInputs.cache
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.dll
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\refint\homew1.dll
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.pdb
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\homew1.genruntimeconfig.cache
+C:\Users\andom\OneDrive\Рабочий стол\new\homew1\obj\Debug\net6.0\ref\homew1.dll
