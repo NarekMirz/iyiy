@@ -19,4 +19,4 @@ if (c > max)
 }
 
 
-Console.WriteLine("Ваше максимальное " +max);
+Console.WriteLine("Твоё максимальное " +max);
